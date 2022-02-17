@@ -1,0 +1,14 @@
+body {
+   color: blanchedalmond;
+   background-color: black;
+   margin: 40px auto;
+   max-width: 800px;
+   font: 18px/1.5 sans-serif;
+   padding: 0 10px;}
+h1,h2 {
+    color: burlywood;
+}
+p {
+  color: blanchedalmond;
+  text-align: left;
+}

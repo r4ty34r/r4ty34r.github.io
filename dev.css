@@ -1,0 +1,26 @@
+body{
+    background-color: grey;
+}
+
+h1{
+    color: red;
+}
+
+p {
+    color: rgb(64, 161, 240);
+    padding: 5px;
+}
+
+.content {
+    padding: 40px;
+    margin-left: 0px;
+}
+
+.gif {
+    padding: 5px;
+    margin-left: 5px;
+}
+
+.lineup {
+    margin-left:20px ;
+}
