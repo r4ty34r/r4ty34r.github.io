@@ -10,7 +10,7 @@ h1 {
 p {
     color: rgb(37, 15, 228);
     padding: 10px;
-    margin-left: 100px;
+    margin-left: 10px;
 }
 
 .content {
@@ -20,12 +20,13 @@ p {
 .gif {
     padding: 5px;
     margin-left: 5px;
+    text-align: center;
 }
 
 #lineup {
     padding: 5px;
     color: crimson;
-    margin-left: 10%; 
+    margin-left: 5%; 
     color: crimson;
 
 }
